@@ -70,11 +70,15 @@ With your actual OpenAI API key.
 You can open index.html directly in a browser, or use a local server:
 
 bash
-Copy
-Edit
+```
 npm install -g serve
+```
+```
 serve .
+```
+```
 Visit: http://localhost:3000
+```
 
 ✅ Example Prompt Sent to OpenAI
 txt
