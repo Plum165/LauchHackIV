@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Triage AI System</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Triage AI Assistant</h1>
+
+  <form id="triage-form">
+    <label for="symptoms">Describe your symptoms:</label><br />
+    <textarea id="symptoms" rows="5" cols="40" required></textarea><br /><br />
+
+    <label for="location">Enter your township:</label><br />
+    <input type="text" id="location" required /><br /><br />
+
+    <button type="submit">Submit</button>
+  </form>
+
+  <h2>Result</h2>
+  <div id="result"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
