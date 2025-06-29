@@ -97,7 +97,7 @@ Suggest the best action and recommend a nearby clinic if possible.
 📱 USSD/SMS integration for low-data access
 
 🏁 Team & Credits
-Built with ❤️ during LaunchHack IV by [Your Name], powered by:
+Built with ❤️ during LaunchHack IV by Moegamat, powered by:
 
 OpenAI
 
